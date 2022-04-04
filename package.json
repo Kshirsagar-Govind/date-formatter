@@ -1,6 +1,6 @@
 {
   "name": "my-date-formatter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Date Formatter for Formatting date and perform several operations between two  date",
   "main": "server.js",
   "scripts": {
