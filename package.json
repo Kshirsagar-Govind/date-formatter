@@ -1,0 +1,22 @@
+{
+  "name": "date-formatter",
+  "version": "1.0.0",
+  "description": "Date Formatter for Formatting date and perform several operations between two  date",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kshirsagar-Govind/date-formatter.git"
+  },
+  "keywords": [
+    "date-format"
+  ],
+  "author": "Govind Kshirsagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kshirsagar-Govind/date-formatter/issues"
+  },
+  "homepage": "https://github.com/Kshirsagar-Govind/date-formatter#readme"
+}
